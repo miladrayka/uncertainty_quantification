@@ -29,6 +29,8 @@ git clone https://github.com/miladrayka/uncertainty_quantification.git
 ```
 pip install -r requirements.txt
 ```
+## Usage
+To reproduce all results, tables, and figures, refer to *analysis* folder.
 
 ## Copy Right
 Copyright (c) 2025, Milad Rayka
