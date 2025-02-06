@@ -5,7 +5,7 @@
 A repository to reproduce results, tables, and figures of the paper "Uncertainty in Binding Affinity: A Deep Learning Benchmark."
 
 ## Citation
-It will be added
+It will be added.
 
 ## Contact
 Milad Rayka, milad.rayka@yahoo.com
