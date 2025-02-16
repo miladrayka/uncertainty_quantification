@@ -2,9 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Uncertainty in Binding Affinity: A Deep Learning Benchmark
-A repository to reproduce results, tables, and figures of the paper "Uncertainty in Binding Affinity: A Deep Learning Benchmark."
 
-![](https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg =100*50)
+<img src="https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg" alt="drawing" width="200"/>
 
 ## Citation
 It will be added.
