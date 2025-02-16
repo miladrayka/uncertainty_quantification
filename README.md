@@ -3,7 +3,7 @@
 
 # Uncertainty in Binding Affinity: A Deep Learning Benchmark
 
-<img src="https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg" alt="drawing" width="200"/>
+<img src="https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg" alt="drawing" width="600"/>
 
 ## Citation
 It will be added.
