@@ -4,7 +4,7 @@
 # Uncertainty in Binding Affinity: A Deep Learning Benchmark
 A repository to reproduce results, tables, and figures of the paper "Uncertainty in Binding Affinity: A Deep Learning Benchmark."
 
-![](https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg)
+![](https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg =100*50)
 
 ## Citation
 It will be added.
