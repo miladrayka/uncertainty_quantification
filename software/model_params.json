@@ -1,0 +1,1 @@
+{"n_layers": 2, "n_units_l_0": 900, "n_units_l_1": 300, "activation_fn": "elu", "dropout": 0.4, "optimizer": "RMSprop", "lr": 6.894932301255905e-05, "wd": 0.004423364659297819, "batch_size": 32}
