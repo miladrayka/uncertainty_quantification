@@ -1,6 +1,6 @@
 # FFNN-ECIF-BayesBYBackprop GUI
 
-<img src="https://github.com/miladrayka/uncertainty_quantification/blob/main/software/GUI.png" alt="drawing" width="600" style="display: block; margin: auto;"/>
+<img src="https://github.com/miladrayka/uncertainty_quantification/blob/main/software/GUI.png" alt="drawing" width="800" style="display: block; margin: auto;"/>
 
 ## Install
 
