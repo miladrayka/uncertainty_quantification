@@ -33,5 +33,11 @@ pip install -r requirements.txt
 ## Usage
 To reproduce all results, tables, and figures, refer to *analysis* folder.
 
+## FFNN-ECIF-BayesByBackprop GUI
+
+FFNN-ECIF-BayeByBackprop GUI (Graphical User Interface) is a software for protein-ligand binding affinity prediction and uncertainty quantification.
+The model is based on FeedForward-NeuralNetwork (FFNN) and Extended-Connectivity Interaction Feature (ECIF) for binding affinity prediction.
+We augment our model with Bayes by the Backprop approach for uncertainty quantification of predicted binding affinity. See software folder for more information.
+
 ## Copy Right
 Copyright (c) 2025, Milad Rayka
