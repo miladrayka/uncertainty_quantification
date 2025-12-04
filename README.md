@@ -6,7 +6,7 @@
 <img src="https://github.com/miladrayka/uncertainty_quantification/blob/main/GA.jpg" alt="drawing" width="600" style="display: block; margin: auto;"/>
 
 ## Citation
-It will be added.
+Cite this [Uncertainty quantification enables reliable deep learning for protein–ligand binding affinity prediction](https://www.nature.com/articles/s41598-025-27167-7).
 
 ## Contact
 Milad Rayka, milad.rayka@yahoo.com
